@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MaxI6s
 - 👀 I’m interested in robotics and embeded systems!
-- 🌱 I’m currently learning the basics of AI throught AI50's course. 
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
